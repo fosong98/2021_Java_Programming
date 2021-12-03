@@ -1,0 +1,485 @@
+2021-09-02T22:15:43.810+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:44.818+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:44.951+09:00,foson,Action,Clear Tracking Log,,,,,-1,-1,
+2021-09-02T22:15:45.824+09:00,foson,IdeState,Active,01,Dialog,,,-1,-1,Default task
+2021-09-02T22:15:46.831+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:47.838+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:48.848+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:49.132+09:00,foson,Action,NewClass,01,Popup,,,-1,-1,Default task
+2021-09-02T22:15:49.853+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:50.866+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:51.877+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:52.887+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:53.897+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:54.906+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:55.916+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:56.923+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:57.930+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:58.942+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:15:59.950+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:16:00.959+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:16:01.972+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:16:02.984+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:16:03.995+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:04.995+09:00,foson,KeyEvent,65535:16:1,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.003+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.164+09:00,foson,KeyEvent,72:72:1,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.317+09:00,foson,KeyEvent,101:69:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.486+09:00,foson,KeyEvent,108:76:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.669+09:00,foson,KeyEvent,108:76:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:05.937+09:00,foson,KeyEvent,111:79:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:06.012+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:06.570+09:00,foson,KeyEvent,65535:16:1,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:06.928+09:00,foson,KeyEvent,87:87:1,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:07.022+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:08.029+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:08.617+09:00,foson,KeyEvent,111:79:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:08.716+09:00,foson,KeyEvent,114:82:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:09.039+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:09.067+09:00,foson,KeyEvent,108:76:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:09.264+09:00,foson,KeyEvent,100:68:0,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:10.047+09:00,foson,IdeState,Active,01,Popup,,,-1,-1,Default task
+2021-09-02T22:16:10.101+09:00,foson,KeyEvent,10:10:0,,,,,-1,-1,
+2021-09-02T22:16:11.055+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,0,24,Default task
+2021-09-02T22:16:12.063+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,0,24,Default task
+2021-09-02T22:16:12.499+09:00,foson,Action,EditorRight,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,0,24,Default task
+2021-09-02T22:16:12.500+09:00,foson,KeyEvent,65535:39:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,0,25,Default task
+2021-09-02T22:16:12.995+09:00,foson,Action,EditorEnter,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,0,25,Default task
+2021-09-02T22:16:12.999+09:00,foson,KeyEvent,10:10:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,2,Default task
+2021-09-02T22:16:13.070+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,2,Default task
+2021-09-02T22:16:14.075+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,2,Default task
+2021-09-02T22:16:15.083+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,2,Default task
+2021-09-02T22:16:15.437+09:00,foson,KeyEvent,112:80:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,2,Default task
+2021-09-02T22:16:15.613+09:00,foson,KeyEvent,117:85:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,3,Default task
+2021-09-02T22:16:15.873+09:00,foson,KeyEvent,98:66:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,4,Default task
+2021-09-02T22:16:15.970+09:00,foson,KeyEvent,108:76:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,5,Default task
+2021-09-02T22:16:16.090+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,6,Default task
+2021-09-02T22:16:16.111+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,6,Default task
+2021-09-02T22:16:16.246+09:00,foson,KeyEvent,99:67:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,7,Default task
+2021-09-02T22:16:16.816+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,8,Default task
+2021-09-02T22:16:17.012+09:00,foson,KeyEvent,115:83:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,9,Default task
+2021-09-02T22:16:17.101+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,10,Default task
+2021-09-02T22:16:17.166+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,10,Default task
+2021-09-02T22:16:17.321+09:00,foson,KeyEvent,97:65:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,11,Default task
+2021-09-02T22:16:17.377+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,12,Default task
+2021-09-02T22:16:17.567+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,13,Default task
+2021-09-02T22:16:17.715+09:00,foson,KeyEvent,99:67:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,14,Default task
+2021-09-02T22:16:17.864+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,15,Default task
+2021-09-02T22:16:18.107+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,16,Default task
+2021-09-02T22:16:18.130+09:00,foson,KeyEvent,118:86:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,16,Default task
+2021-09-02T22:16:18.229+09:00,foson,KeyEvent,111:79:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,17,Default task
+2021-09-02T22:16:18.334+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,18,Default task
+2021-09-02T22:16:18.440+09:00,foson,KeyEvent,100:68:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,19,Default task
+2021-09-02T22:16:18.560+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,20,Default task
+2021-09-02T22:16:18.735+09:00,foson,KeyEvent,97:65:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,21,Default task
+2021-09-02T22:16:18.805+09:00,foson,KeyEvent,109:77:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,22,Default task
+2021-09-02T22:16:19.116+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,23,Default task
+2021-09-02T22:16:19.172+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,23,Default task
+2021-09-02T22:16:19.174+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,22,Default task
+2021-09-02T22:16:19.327+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,22,Default task
+2021-09-02T22:16:19.329+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,21,Default task
+2021-09-02T22:16:19.530+09:00,foson,KeyEvent,109:77:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,21,Default task
+2021-09-02T22:16:19.594+09:00,foson,KeyEvent,97:65:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,22,Default task
+2021-09-02T22:16:19.727+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,23,Default task
+2021-09-02T22:16:19.861+09:00,foson,KeyEvent,110:78:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,24,Default task
+2021-09-02T22:16:20.100+09:00,foson,KeyEvent,57:57:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,25,Default task
+2021-09-02T22:16:20.124+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,26,Default task
+2021-09-02T22:16:20.150+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,26,Default task
+2021-09-02T22:16:20.184+09:00,foson,KeyEvent,40:57:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,26,Default task
+2021-09-02T22:16:20.544+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main9,1,27,Default task
+2021-09-02T22:16:20.547+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main9,1,26,Default task
+2021-09-02T22:16:20.705+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,26,Default task
+2021-09-02T22:16:20.707+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,25,Default task
+2021-09-02T22:16:20.804+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,25,Default task
+2021-09-02T22:16:20.930+09:00,foson,KeyEvent,40:57:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,25,Default task
+2021-09-02T22:16:21.131+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,26,Default task
+2021-09-02T22:16:21.177+09:00,foson,KeyEvent,83:83:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,26,Default task
+2021-09-02T22:16:21.389+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,27,Default task
+2021-09-02T22:16:21.577+09:00,foson,KeyEvent,114:82:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,28,Default task
+2021-09-02T22:16:21.646+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,29,Default task
+2021-09-02T22:16:21.767+09:00,foson,KeyEvent,110:78:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,30,Default task
+2021-09-02T22:16:21.873+09:00,foson,KeyEvent,103:71:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,31,Default task
+2021-09-02T22:16:22.138+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:22.857+09:00,foson,KeyEvent,45:45:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:22.921+09:00,foson,KeyEvent,61:61:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:23.077+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:23.146+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:23.209+09:00,foson,KeyEvent,97:65:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:23.457+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,36,Default task
+2021-09-02T22:16:23.459+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:23.807+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:23.809+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:23.984+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:23.986+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:24.154+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:24.505+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:24.507+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:24.813+09:00,foson,KeyEvent,112:80:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:24.926+09:00,foson,KeyEvent,91:91:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:25.163+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:25.292+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:25.294+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:25.468+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:25.470+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:25.714+09:00,foson,KeyEvent,91:91:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,32,Default task
+2021-09-02T22:16:25.819+09:00,foson,KeyEvent,93:93:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,33,Default task
+2021-09-02T22:16:25.974+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,34,Default task
+2021-09-02T22:16:26.171+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:26.171+09:00,foson,KeyEvent,97:65:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,35,Default task
+2021-09-02T22:16:26.234+09:00,foson,KeyEvent,114:82:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,36,Default task
+2021-09-02T22:16:26.473+09:00,foson,KeyEvent,103:71:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,37,Default task
+2021-09-02T22:16:27.029+09:00,foson,KeyEvent,115:83:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,38,Default task
+2021-09-02T22:16:27.179+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:27.276+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:27.402+09:00,foson,KeyEvent,95:45:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:27.958+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,40,Default task
+2021-09-02T22:16:27.960+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:28.189+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:28.358+09:00,foson,KeyEvent,48:48:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:28.372+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,40,Default task
+2021-09-02T22:16:28.803+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,40,Default task
+2021-09-02T22:16:28.804+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:28.900+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:29.026+09:00,foson,KeyEvent,41:48:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,39,Default task
+2021-09-02T22:16:29.027+09:00,foson,KeyEvent,95:45:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,40,Default task
+2021-09-02T22:16:29.196+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,41,Default task
+2021-09-02T22:16:29.435+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,41,Default task
+2021-09-02T22:16:29.437+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,1,40,Default task
+2021-09-02T22:16:29.788+09:00,foson,Action,EditorEnter,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,1,40,Default task
+2021-09-02T22:16:29.792+09:00,foson,KeyEvent,10:10:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,2,4,Default task
+2021-09-02T22:16:30.203+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,2,4,Default task
+2021-09-02T22:16:30.596+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,2,4,Default task
+2021-09-02T22:16:30.750+09:00,foson,KeyEvent,123:91:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,2,4,Default task
+2021-09-02T22:16:31.026+09:00,foson,Action,EditorEnter,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,2,3,Default task
+2021-09-02T22:16:31.031+09:00,foson,KeyEvent,10:10:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,3,4,Default task
+2021-09-02T22:16:31.210+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:32.220+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:33.228+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:34.235+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:34.675+09:00,foson,KeyEvent,115:83:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:35.006+09:00,foson,KeyEvent,121:89:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T22:16:35.140+09:00,foson,KeyEvent,115:83:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,6,Default task
+2021-09-02T22:16:35.239+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,7,Default task
+2021-09-02T22:16:35.689+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,7,Default task
+2021-09-02T22:16:35.691+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,6,Default task
+2021-09-02T22:16:35.844+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,6,Default task
+2021-09-02T22:16:35.845+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T22:16:36.013+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T22:16:36.015+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:36.041+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:36.246+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:36.357+09:00,foson,KeyEvent,83:83:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T22:16:36.954+09:00,foson,KeyEvent,121:89:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T22:16:37.060+09:00,foson,KeyEvent,115:83:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,6,Default task
+2021-09-02T22:16:37.254+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,7,Default task
+2021-09-02T22:16:37.278+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,7,Default task
+2021-09-02T22:16:37.461+09:00,foson,KeyEvent,101:69:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T22:16:37.581+09:00,foson,KeyEvent,109:77:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,9,Default task
+2021-09-02T22:16:37.785+09:00,foson,Action,EditorChooseLookupItemReplace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,10,Default task
+2021-09-02T22:16:37.791+09:00,foson,KeyEvent,9:9:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,10,Default task
+2021-09-02T22:16:38.243+09:00,foson,KeyEvent,46:46:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,10,Default task
+2021-09-02T22:16:38.262+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,11,Default task
+2021-09-02T22:16:38.890+09:00,foson,KeyEvent,111:79:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,11,Default task
+2021-09-02T22:16:38.897+09:00,foson,KeyEvent,112:80:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,12,Default task
+2021-09-02T22:16:39.073+09:00,foson,KeyEvent,117:85:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,13,Default task
+2021-09-02T22:16:39.272+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:39.390+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:39.391+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,13,Default task
+2021-09-02T22:16:39.551+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,13,Default task
+2021-09-02T22:16:39.553+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,12,Default task
+2021-09-02T22:16:39.910+09:00,foson,KeyEvent,117:85:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,12,Default task
+2021-09-02T22:16:40.086+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,13,Default task
+2021-09-02T22:16:40.278+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:40.340+09:00,foson,Action,EditorChooseLookupItemReplace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:40.345+09:00,foson,KeyEvent,9:9:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:40.726+09:00,foson,KeyEvent,46:46:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T22:16:41.285+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,15,Default task
+2021-09-02T22:16:42.294+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,15,Default task
+2021-09-02T22:16:42.464+09:00,foson,KeyEvent,112:80:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,15,Default task
+2021-09-02T22:16:42.591+09:00,foson,KeyEvent,114:82:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,16,Default task
+2021-09-02T22:16:42.689+09:00,foson,KeyEvent,105:73:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,17,Default task
+2021-09-02T22:16:42.837+09:00,foson,KeyEvent,110:78:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,18,Default task
+2021-09-02T22:16:42.971+09:00,foson,KeyEvent,116:84:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,19,Default task
+2021-09-02T22:16:43.252+09:00,foson,Action,EditorChooseLookupItemReplace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,20,Default task
+2021-09-02T22:16:43.269+09:00,foson,KeyEvent,9:9:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,21,Default task
+2021-09-02T22:16:43.304+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,21,Default task
+2021-09-02T22:16:44.336+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,21,Default task
+2021-09-02T22:16:44.421+09:00,foson,Action,EditorLeft,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,21,Default task
+2021-09-02T22:16:44.423+09:00,foson,KeyEvent,65535:37:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,20,Default task
+2021-09-02T22:16:45.351+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,20,Default task
+2021-09-02T22:16:45.434+09:00,foson,KeyEvent,108:76:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,20,Default task
+2021-09-02T22:16:45.533+09:00,foson,KeyEvent,110:78:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,21,Default task
+2021-09-02T22:16:46.195+09:00,foson,Action,EditorRight,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,22,Default task
+2021-09-02T22:16:46.197+09:00,foson,KeyEvent,65535:39:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,23,Default task
+2021-09-02T22:16:46.360+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,23,Default task
+2021-09-02T22:16:47.255+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,23,Default task
+2021-09-02T22:16:47.305+09:00,foson,KeyEvent,34:222:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,23,Default task
+2021-09-02T22:16:47.369+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,24,Default task
+2021-09-02T22:16:48.377+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,24,Default task
+2021-09-02T22:16:49.064+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,24,Default task
+2021-09-02T22:16:49.184+09:00,foson,KeyEvent,72:72:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,24,Default task
+2021-09-02T22:16:49.383+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,25,Default task
+2021-09-02T22:16:49.430+09:00,foson,KeyEvent,101:69:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,25,Default task
+2021-09-02T22:16:49.543+09:00,foson,KeyEvent,108:76:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,26,Default task
+2021-09-02T22:16:49.690+09:00,foson,KeyEvent,108:76:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T22:16:49.887+09:00,foson,KeyEvent,111:79:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T22:16:50.389+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,29,Default task
+2021-09-02T22:16:50.464+09:00,foson,KeyEvent,44:44:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,29,Default task
+2021-09-02T22:16:50.768+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,30,Default task
+2021-09-02T22:16:50.929+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,31,Default task
+2021-09-02T22:16:51.146+09:00,foson,KeyEvent,87:87:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,31,Default task
+2021-09-02T22:16:51.396+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,32,Default task
+2021-09-02T22:16:52.082+09:00,foson,KeyEvent,111:79:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,32,Default task
+2021-09-02T22:16:52.251+09:00,foson,KeyEvent,114:82:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T22:16:52.406+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T22:16:52.476+09:00,foson,KeyEvent,108:76:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T22:16:52.955+09:00,foson,KeyEvent,100:68:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T22:16:53.414+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T22:16:54.423+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T22:16:54.743+09:00,foson,KeyEvent,32:32:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T22:16:55.429+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T22:16:55.537+09:00,foson,KeyEvent,50:50:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T22:16:55.623+09:00,foson,KeyEvent,48:48:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,38,Default task
+2021-09-02T22:16:55.931+09:00,foson,KeyEvent,49:49:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,39,Default task
+2021-09-02T22:16:56.270+09:00,foson,KeyEvent,57:57:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T22:16:56.436+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T22:16:56.692+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T22:16:56.694+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T22:16:56.917+09:00,foson,KeyEvent,56:56:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T22:16:57.446+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T22:16:57.685+09:00,foson,Action,EditorBackSpace,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T22:16:57.686+09:00,foson,KeyEvent,8:8:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T22:16:58.022+09:00,foson,KeyEvent,55:55:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T22:16:58.226+09:00,foson,KeyEvent,50:50:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T22:16:58.352+09:00,foson,KeyEvent,51:51:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,42,Default task
+2021-09-02T22:16:58.452+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,43,Default task
+2021-09-02T22:16:58.528+09:00,foson,KeyEvent,49:49:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,43,Default task
+2021-09-02T22:16:58.676+09:00,foson,KeyEvent,52:52:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T22:16:58.887+09:00,foson,KeyEvent,56:56:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,45,Default task
+2021-09-02T22:16:59.461+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,46,Default task
+2021-09-02T22:16:59.844+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,46,Default task
+2021-09-02T22:17:00.252+09:00,foson,KeyEvent,33:49:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,46,Default task
+2021-09-02T22:17:00.469+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:01.477+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:02.484+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:03.492+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:04.500+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:05.515+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:06.523+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:07.531+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T22:17:08.535+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:09.544+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:10.583+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:11.592+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:12.601+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:13.608+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:14.617+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:15.625+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:16.558+09:00,foson,Action,RunClass,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:16.631+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:17.637+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:18.642+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:19.647+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:20.654+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:21.662+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:22.669+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:23.675+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:24.683+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:25.690+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:26.698+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:27.592+09:00,foson,KeyEvent,65535:17:2,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:27.708+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:27.725+09:00,foson,KeyEvent,65535:121:2,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:28.718+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:29.727+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:30.739+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:31.749+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:32.760+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:33.767+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:34.776+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:35.302+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:35.507+09:00,foson,Action,Run,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:35.508+09:00,foson,KeyEvent,65535:121:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:35.784+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:36.791+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T22:17:37.795+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.222+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.725+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.756+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.800+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.801+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.830+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.860+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:38.876+09:00,foson,KeyEvent,65535:121:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:39.807+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:40.819+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:41.820+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:42.830+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:43.835+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:44.842+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:45.849+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:46.607+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:46.726+09:00,foson,Action,Debug,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:46.728+09:00,foson,KeyEvent,65535:120:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:46.855+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:47.862+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:48.867+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:49.874+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:50.885+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:51.894+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:52.903+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:53.908+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:54.919+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:55.928+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:56.937+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:57.946+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:58.956+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:17:59.968+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:18:00.982+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,5,1,Default task
+2021-09-02T22:18:01.988+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:02.996+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:04.005+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:05.014+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:06.019+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:07.026+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:08.037+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:09.046+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:10.054+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:11.063+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:12.072+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:13.079+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:14.090+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:15.098+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:16.105+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:17.114+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:18.123+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:19.132+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:20.137+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:21.143+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:22.152+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:23.162+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:24.171+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:25.179+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:26.189+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:27.199+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:28.207+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:28.490+09:00,foson,KeyEvent,65535:524:0,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:28.532+09:00,foson,KeyEvent,65535:16:1,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:29.212+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:30.224+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:31.231+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:32.235+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:33.243+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:34.249+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:35.256+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:36.267+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:37.275+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:38.286+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:39.297+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:40.303+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:41.310+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:42.320+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:43.331+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:44.342+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:18:45.356+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:46.366+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:47.374+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:48.384+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:49.393+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:50.402+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:51.407+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:52.414+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:53.424+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:54.433+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:55.439+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:56.444+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:57.453+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:58.463+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:18:59.473+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:00.486+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:01.493+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:02.503+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:03.517+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:04.529+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:05.537+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:06.546+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:07.558+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:08.564+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:09.570+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:10.576+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:11.585+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:12.595+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:13.601+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:14.608+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:15.617+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:16.627+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:17.637+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:18.645+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:19.654+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:20.662+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:21.675+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:22.681+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:23.691+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:24.701+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:25.709+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:26.716+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:27.722+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:19:28.732+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:29.739+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:30.750+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:31.756+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:32.764+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:33.772+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/Desktop/program/platform-base-programming/01/src/HelloWorld.java,,6,0,Default task
+2021-09-02T22:19:34.779+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:35.788+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:36.790+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:37.797+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:38.807+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:39.811+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:40.817+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:41.827+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:42.835+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:43.845+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:44.853+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:45.860+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:46.863+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:47.870+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:48.877+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:49.885+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:50.893+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:51.466+09:00,foson,KeyEvent,65535:17:2,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:51.781+09:00,foson,Action,SaveAll,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:51.782+09:00,foson,KeyEvent,19:83:2,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:51.898+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:52.909+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:53.916+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:54.925+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:55.934+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:56.942+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:57.950+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:58.962+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:19:59.973+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:00.984+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:01.990+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:02.998+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:04.005+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:05.014+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:05.234+09:00,foson,Action,ShowFilePath,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:06.023+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:07.034+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:08.044+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:09.055+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:10.068+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:11.077+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:12.085+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:13.094+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:14.101+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:15.111+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:16.123+09:00,foson,IdeState,Active,01,Popup,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:17.130+09:00,foson,IdeState,Active,01,Editor,C:/Users/foson/AppData/Roaming/JetBrains/IdeaIE2021.2/plugins/activity-tracker/ide-events.csv,,0,0,Default task
+2021-09-02T22:20:18.138+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:20:19.144+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:20:20.155+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:20:21.164+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:20:22.172+09:00,foson,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T22:20:23.178+09:00,foson,IdeState,Inactive,,,,,-1,-1,
